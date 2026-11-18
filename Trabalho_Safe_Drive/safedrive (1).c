@@ -4,7 +4,6 @@
 #include <time.h>
 
 #define MAX_AMOSTRAS 100
-/*Gustavo Tavernari Noronha Ra: 10769664, Tiago Ribeiro de Souza Ra: 10763028,Daniel Bertolin0 Lima Ra:10264743*/
 /* gera 50 registros aleatorios para as matrizes iniciais */
 int inicializarDados(float velocidades[][2], float sensoresFrontais[][3], float sensoresLaterais[][2]) {
 
